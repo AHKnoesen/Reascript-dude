@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "version": "1.0.0",
+  "subtitleLength": 23,
+  "skillCount": 8,
+  "files": [
+    "assets/icon-dark.svg",
+    "assets/icon.svg",
+    "examples/environment-probe.lua",
+    "plugin.json",
+    "README.md",
+    "references/contract.md",
+    "references/sources.md",
+    "references/verification.md",
+    "skills/reascript-actions/agents/openai.yaml",
+    "skills/reascript-actions/SKILL.md",
+    "skills/reascript-debug/agents/openai.yaml",
+    "skills/reascript-debug/SKILL.md",
+    "skills/reascript-develop/agents/openai.yaml",
+    "skills/reascript-develop/SKILL.md",
+    "skills/reascript-extensions/agents/openai.yaml",
+    "skills/reascript-extensions/SKILL.md",
+    "skills/reascript-launcher/agents/openai.yaml",
+    "skills/reascript-launcher/SKILL.md",
+    "skills/reascript-midi/agents/openai.yaml",
+    "skills/reascript-midi/SKILL.md",
+    "skills/reascript-state/agents/openai.yaml",
+    "skills/reascript-state/SKILL.md",
+    "skills/reascript-ui/agents/openai.yaml",
+    "skills/reascript-ui/SKILL.md"
+  ]
+}
